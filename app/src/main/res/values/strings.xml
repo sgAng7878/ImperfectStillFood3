@@ -9,4 +9,8 @@
     <string name="Fruit">Fruit</string>
     <string name="Vegetable">Vegetable</string>
     <string name="Meat">Meat</string>
+    <string name="Home">Home</string>
+    <string name="Cart">Cart</string>
+    <string name="Account">Account</string>
+    <string name="Notification">Notification</string>
 </resources>
