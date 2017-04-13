@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Bottombaritemone"
+        android:icon="@drawable/home"
+        android:title="@+id/Home">
+        </item>
+
+    <item
+        android:id="@+id/Bottombaritemtwo"
+        android:icon="@drawable/shopping_cart"
+        android:title="@+id/Cart">
+    </item>
+
+    <item
+        android:id="@+id/Bottombaritemthree"
+        android:icon="@drawable/ic_account_box_white_24dp"
+        android:title="@+id/Account">
+    </item>
+
+    <item
+        android:id="@+id/Bottombaritemfour"
+        android:icon="@drawable/notification"
+        android:title="@+id/Notification">
+    </item>
+
+</menu>
